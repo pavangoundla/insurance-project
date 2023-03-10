@@ -2,8 +2,6 @@ Pavan's PE TestCases
 ====================
 Testcase 1 
 Testcase 2
-Testcase 3 
-Testcase 4
 
 Sanjana's Compass TestCases
 ====================
